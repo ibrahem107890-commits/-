@@ -1,0 +1,6 @@
+{
+  "name": "عاداتي",
+  "description": "تطبيق متكامل باللغة العربية لتتبع العادات اليومية وبناء نمط حياة صحي ومتوازن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
